@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521564985210",
+    "project_id": "bear-man",
+    "storage_bucket": "bear-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521564985210:android:3fa1dae11351fb1b1468c3",
+        "android_client_info": {
+          "package_name": "com.example.hand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521564985210-sm2bbeisqu721agddd3hsa2s2vbou94v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hand",
+            "certificate_hash": "ce6f8e1e9dc9ac1b2f68eab33eab2ac458143738"
+          }
+        },
+        {
+          "client_id": "521564985210-r1rbgddkfbb34iaiiegukjsgvnokkuds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5eIkzh2-Y7meEyiUkBraF0rwD4MJBpm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521564985210-r1rbgddkfbb34iaiiegukjsgvnokkuds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
